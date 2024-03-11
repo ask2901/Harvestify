@@ -49,6 +49,17 @@ In ResNets, unlike in traditional neural networks, each layer feeds into the nex
 <br/>
 The accuracy of the model is 99.2%
 
+### Validation Accuracy
+
+
+<img src="https://github.com/ask2901/Harvestify/assets/109283594/85351412-33c6-475a-8f98-8f42ee5dadc6" alt=""/>
+
+### Validation Loss
+
+
+<img src="https://github.com/ask2901/Harvestify/assets/109283594/e4215df6-a93a-41b6-b2a9-7f4ea106117d" alt=""/>
+<br/>
+
 ## Screenshots
 
 <img src="https://github.com/ask2901/Harvestify/assets/109283594/d2e94942-8ef5-4980-b83c-b567d9d39810" width="60%">
