@@ -25,6 +25,30 @@ operations and the linking of multiple databases
 - NodeJs
 - Tensorflow
 
+## 2. PLANT DISEASE CLASSIFICATION USING RESNET-9 
+### **Description of the dataset 📝**
+This dataset is created using offline augmentation from the original dataset. The original PlantVillage Dataset can be found here.This dataset consists of about 87K rgb images of healthy and diseased crop leaves which is categorized into 38 different classes. The total dataset is divided into 80/20 ratio of training and validation set preserving the directory structure. A new directory containing 33 test images is created later for prediction purpose.<br/>
+### Libraries used
+1. Numpy
+2. Pandas 
+3. Pytorch
+<br/>
+We have have use Pytorch here so it have 5 step life cycle<br/>
+The five steps in the life-cycle are as follows:<br/>
+1. Prepare the Data.
+2. Define the Model.
+3. Train the Model.
+4. Evaluate the Model.
+5. Make Predictions.
+
+### Deep Learning Algorithm used- ResNet-9
+In ResNets, unlike in traditional neural networks, each layer feeds into the next layer, we use a network with residual blocks, each layer feeds into the next layer and directly into the layers about 2–3 hops away, to avoid over-fitting (a situation when validation loss stop decreasing at a point and then keeps increasing while training loss still decreases). This also helps in preventing vanishing gradient problem and allow us to train deep neural networks. Here is a simple residual block:
+<br/>
+
+<img src="/app/static/images/HACKNUTHON2.png" alt=""/>
+<br/>
+The accuracy of the model is 99.2%
+
 ## Screenshots
 
 <img src="https://github.com/ask2901/Harvestify/assets/109283594/94dc62b0-a12a-41f4-89c3-124d4189a03d" width="45%">
