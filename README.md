@@ -1,8 +1,7 @@
 # Harvestify
  
   <p align="center">
-    
-    <img alt="Supports Expo iOS" longdesc="Supports Expo iOS" src="https://github.com/ask2901/Harvestify/assets/109283594/2dcea52f-c40a-4be2-843e-839cb539223d" />
+    <img alt="Supports Expo iOS" longdesc="Supports Expo iOS" src="https://github.com/ask2901/Harvestify/assets/109283594/2dcea52f-c40a-4be2-843e-839cb539223d" width="50%"/>
   </p>
 </p>
 
