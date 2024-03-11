@@ -51,8 +51,9 @@ The accuracy of the model is 99.2%
 
 ## Screenshots
 
-<img src="https://github.com/ask2901/Harvestify/assets/109283594/94dc62b0-a12a-41f4-89c3-124d4189a03d" width="45%">
-<img src="https://github.com/ask2901/Harvestify/assets/109283594/4e51bb87-0b89-4f78-a19b-8266b3486495" width="45%">    <img src="https://github.com/ask2901/Harvestify/assets/109283594/0aca664b-e2df-44ca-a0e3-d2e0b3cb8395" width="45%">     <img src="https://github.com/ask2901/Harvestify/assets/109283594/d2e94942-8ef5-4980-b83c-b567d9d39810" width="45%">
+<img src="https://github.com/ask2901/Harvestify/assets/109283594/d2e94942-8ef5-4980-b83c-b567d9d39810" width="60%">
+<img src="https://github.com/ask2901/Harvestify/assets/109283594/94dc62b0-a12a-41f4-89c3-124d4189a03d" width="60%">
+<img src="https://github.com/ask2901/Harvestify/assets/109283594/4e51bb87-0b89-4f78-a19b-8266b3486495" width="60%">    <img src="https://github.com/ask2901/Harvestify/assets/109283594/0aca664b-e2df-44ca-a0e3-d2e0b3cb8395" width="60%">     
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
