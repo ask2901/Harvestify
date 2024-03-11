@@ -1,10 +1,8 @@
 # Harvestify
  
   <p align="center">
-    <!-- iOS -->
-    <img alt="Supports Expo iOS" longdesc="Supports Expo iOS" src="https://img.shields.io/badge/iOS-4630EB.svg?style=flat-square&logo=APPLE&labelColor=999999&logoColor=fff" />
-    <!-- Android -->
-    <img alt="Supports Expo Android" longdesc="Supports Expo Android" src="https://img.shields.io/badge/Android-4630EB.svg?style=flat-square&logo=ANDROID&labelColor=A4C639&logoColor=fff" />
+    
+    <img alt="Supports Expo iOS" longdesc="Supports Expo iOS" src="https://github.com/ask2901/Harvestify/assets/109283594/2dcea52f-c40a-4be2-843e-839cb539223d" />
   </p>
 </p>
 
