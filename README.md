@@ -45,7 +45,7 @@ The five steps in the life-cycle are as follows:<br/>
 In ResNets, unlike in traditional neural networks, each layer feeds into the next layer, we use a network with residual blocks, each layer feeds into the next layer and directly into the layers about 2–3 hops away, to avoid over-fitting (a situation when validation loss stop decreasing at a point and then keeps increasing while training loss still decreases). This also helps in preventing vanishing gradient problem and allow us to train deep neural networks. Here is a simple residual block:
 <br/>
 
-<img src="/app/static/images/HACKNUTHON2.png" alt=""/>
+<img src="https://github.com/ask2901/Harvestify/assets/109283594/ef49a704-13e4-4581-86c6-88d36b39fa31" alt=""/>
 <br/>
 The accuracy of the model is 99.2%
 
